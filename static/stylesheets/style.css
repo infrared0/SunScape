@@ -1,0 +1,30 @@
+
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: navy;
+}
+
+h1{
+	visibility: hidden;
+}
+
+table{
+	visibility: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid black;
+	text-align: center;
+	font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+#circle{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
